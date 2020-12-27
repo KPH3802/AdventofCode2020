@@ -5,6 +5,6 @@ I decided to take on the challenge of [Advent of Code (AoC)](https://adventofcod
 
 <p float="left">
   <img src="Images/advent-of-code.png" width="300" />
-  <img src="Images/advent-of-code.jpeg" width="500" /> 
+  <img src="Images/advent-of-code-2019.jpeg" width="500" /> 
 </p>
 
